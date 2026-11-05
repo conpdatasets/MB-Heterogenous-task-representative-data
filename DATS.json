@@ -1,10 +1,6 @@
 {
   "title": "Performance of control mice in the heterogenous sequence task",
   "description": "Male control mice (VAChTflox/flox) were evaluated at 5-8 months of age using the Heterogeneous Sequence Task to assess response chain learning and complex motor learning. ",
-  "identifier": {
-    "identifier": "https://doi.org/10.1002/cpz1.268",
-    "identifierSource": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.268"
-  },
   "creators": [
     {
       "fullName": "Dr. Marco Prado",
